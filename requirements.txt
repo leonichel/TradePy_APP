@@ -1,0 +1,7 @@
+streamlit==0.79.0
+plotly==4.14.3
+yfinance==0.1.59
+pandas==1.2.1
+requests_cache==0.5.2
+stockstats==0.3.2
+numpy==1.19.2
